@@ -1,0 +1,8 @@
+---
+title: Ingredients
+layout: cloud
+permalink: /ingredients.html
+cloud-fields:
+cloud-min: 2
+cloud-stopwords:
+---
