@@ -14,14 +14,4 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+This collection contains recipes collected by my grandmother, Jean Harris, and her mother, Christine West. A majority of these recipes are from the 1950s and 1960s. All of them contain missing information, whether that be amounts, methods, or even ingredients. I was inspired to consider what I can learn from these knowledge gaps. What knowledge is assumed? What was common for the 50s chef that no longer holds true today? While these recipes have been passed down to me, not everything transfers. It's in these gaps that I hope to gain a deeper understanding of my grandmother's kitchen. 
