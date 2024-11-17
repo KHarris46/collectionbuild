@@ -26,7 +26,7 @@ browse-buttons: true # true/false, adds previous/next arrows to item pages
 subjects-fields: subject;ingredients # set the field to be featured in the cloud (if left blank, none will be generated)
 subjects-min: 1 # min size for subject cloud, too many terms = slow load time!
 subjects-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
-% include feature/cloud.html fields="ingredients;creator" min=2 %
+% include feature/cloud.html fields="subject;ingredients" min=2 %
 
 ##########
 # INGREDIENTS PAGE
