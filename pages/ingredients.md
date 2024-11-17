@@ -4,7 +4,6 @@ layout: cloud
 permalink: /ingredients.html
 cloud-fields: ingredients
 cloud-min: 1
-cloud-stopwords:
 ---
 ### Browse Ingredients
 
