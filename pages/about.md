@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="meat.jpg" %}
+{% include feature/jumbotron.html objectid="/objects/meat.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection" %}
 
@@ -18,11 +18,11 @@ This website was created as a final project for Z652 Digital Libraries at the Un
 
 The turn of the 20th century introduced new attitudes towards food all across the world, but especially for home chefs across America. This included voluntary rationing during World War 1, food shortages due to the Dust Bowl and the Great Depression, compulsory rationing during World War 2, and the reign of gelatin during the “Golden Age” of the Fifties. This sudden abundance of the 50s combined with the past 40 years’ frugality and creativity led to some of the most memorable recipes, for better or worse, in American culinary history.
 
-{% include feature/image.html objectid="salad.jpg" width="50" caption="No lettuce to be found here." %}
+{% include feature/image.html objectid="/objects/salad.jpg" width="50" caption="No lettuce to be found here." %}
 
 Depression-era and war recipes often used scant milk, eggs, butter, and sugar, due to scarcity and rationing, while the 50s are iconic for their gelatin monstrosities and “salads” that aren’t really salads. Do not expect lettuce to make a feature except as an additional texture. Culinary historian and home chef B. Dylan Hollis recently took it upon himself to share 20th century recipes with the Internet, primarily in video format, as he follows the recipes as written, to varying results. Chief among the successes are chocolate potato cake (1910s), unemployment pudding (1920s), sour cream cookies (1940s), and boiled cookies (1950s). However, he has stumbled across a few failures, being jellied meatloaf (1930s), roughage loaf (1910s), and pickle cheesecake (1970s).
 
-{% include feature/image.html objectid="baking.jpg" width="50" caption="I highly recommend this cookbook." %}
+{% include feature/image.html objectid="/objects/baking.jpg" width="50" caption="I highly recommend this cookbook." %}
 
 While the recipes collected here are, in my humble opinion, less adventurous than those sampled by B. Dylan Hollis, they are just as mysterious, whether it be from assumed knowledge of methods and quantities, or from strange ingredient combinations. Ambiguity in these recipes often stems from the dreaded phrase, “make according to standard method,” or similar phrasing. The end results hinges on the home chef’s correct understanding of what is meant by “standard method.” 
 
